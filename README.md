@@ -1,6 +1,6 @@
 Not an IIT an/NIT an, but teaming up with them to solve challenging problems.
 
-Having an overall experience of 9 years in Python, Test Automation, Performance testing using Python Locust, DevOps CI/CD, Docker, and Kubernetes.
+An active LeetCoder, having an overall experience of 9 years in Python, Test Automation, Performance testing using Python Locust, DevOps CI/CD, Docker and Kubernetes.
 
 Hands-On exposure 
 
